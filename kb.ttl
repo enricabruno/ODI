@@ -144,6 +144,9 @@ odikb:capitoloTre a odi:Chapter ;
 odikb:capitoloUno a odi:Chapter ;
     odi:includes odikb:storiauno .
 
+odikb:capitoloIntroduttivo a odi:Chapter ;
+    odi:includes odikb:storiazero .
+
 odikb:cinque-di-spade a odi:DeckCard ;
     odi:hasAuthor odikb:bonifacio-bembo ;
     odi:hasCondition odikb:presente ;
@@ -189,6 +192,7 @@ odikb:il-castello-dei-destini-incrociati a odi:Edition ;
         odikb:capitolosei,
         odikb:capitolotre,
         odikb:capitolouno,
+        odikb:capitolointroduttivo,
         odikb:tuttelealtrestorie ;
     odi:hasPublicationDate "2014"^^xsd:year ;
     odi:hasTitle "Il castello dei destini incrociati"^^xsd:string ;
@@ -550,6 +554,8 @@ odikb:capitolosei rdfs:label "Capitolo sei"^^xsd:string .
 odikb:capitolotre rdfs:label "Capitolo tre"^^xsd:string .
 
 odikb:capitolouno rdfs:label "Capitolo uno"^^xsd:string .
+
+odikb:capitolointroduttivo rdfs:label "Capitolo introduttivo"^^xsd:string .
 
 odikb:carlo-magno a odi:Meaning ;
     rdfs:label "Carlo Magno"^^xsd:string .
