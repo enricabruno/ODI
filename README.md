@@ -1,2 +1,2 @@
 # ODI
-Ontologia dei Destini incrociati di Italo Calvino.
+ODI is an Ontology on _Il castello dei destini incrociati_ written by Italo Calvino. This project aims to study the narrative use and the relations between the tarot cards in the stories of the work. It was realised as a master's thesis at the university of Bologna in Italian Studies, European Literary Cultures, Linguistics (https://corsi.unibo.it/magistrale/ItalianisticaCultureLetterarieLinguistica) under the supervision of Professor F. Tomasi (https://www.unibo.it/sitoweb/francesca.tomasi) and Dr V. Pasqual (https://www.unibo.it/sitoweb/valentina.pasqual2).
